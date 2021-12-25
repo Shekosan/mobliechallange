@@ -1,0 +1,211 @@
+body {
+  width: 375px;
+  margin-top: 0;
+  font-family: 'Spartan';
+  font-size: 15px;
+}
+
+.top-container {
+  position: absolute;
+  top: 60px;
+  left: 50px;
+}
+
+h1 {
+  margin-top: 20px;
+  margin-left: 50px;
+  text-align: center;
+  font-size: 2rem;
+  color: HSL(300, 43%, 22%);
+  width: 70%;
+}
+
+.topimg{
+  position: absolute;
+  left: 50px;
+  top: 20px;
+}
+.bottom-image {
+  position: relative;
+  top: 1300px;
+  left: 50px;
+}
+
+.little-caption {
+  font-size: 14px;
+position: absolute;
+top: 160px;
+left: 70px;
+  line-height: 1.5rem;
+  text-align: center;
+  color: hsl(303, 10%, 53%);
+  width: 75%;
+}
+
+.checked {
+  color: orange;
+}
+
+.t1 {
+  padding-left: 20px;
+    width: 60%;
+  border-radius: 10px;
+  position: absolute;
+  top: 400px;
+left: 105px;
+  background-color: hsl(300, 24%, 96%);
+}
+
+.t2 {
+  padding-left: 20px;
+  width: 60%;
+  border-radius: 10px;
+  position: absolute;
+  top: 550px;
+  left: 105px;
+  background-color: hsl(300, 24%, 96%);
+}
+
+.t3 {
+  padding-left: 20px;
+  width: 60%;
+  border-radius: 10px;
+  position: absolute;
+  top: 700px;
+  left: 105px;
+  background-color: hsl(300, 24%, 96%);
+}
+
+.star3 {
+  margin-left: 95px;
+}
+
+.t3text {
+  text-align: center;
+font-size: 12px;
+  font-weight: bold;
+  color: hsl(300, 43%, 22%);
+}
+
+.t1text {
+  text-align: center;
+font-size: 12px;
+  font-weight: bold;
+  color: hsl(300, 43%, 22%);
+}
+
+.t2text {
+  text-align: center;
+font-size: 12px;
+  font-weight: bold;
+  color: hsl(300, 43%, 22%);
+}
+
+.star1 {
+  margin-left: 95px;
+}
+
+.star2 {
+  margin-left:95px;
+}
+
+h4 {
+  margin-top: 60px;
+  line-height: 0;
+  color: hsl(0, 0%, 100%);
+}
+
+h5 {
+  margin-bottom: 50px;
+  line-height: 0;
+  margin-left: 50px;
+  color: hsl(333, 80%, 67%);
+  font-weight: normal;
+}
+
+.first-person {
+  position: absolute;
+  top: 900px;
+  left: 100px;
+  border-radius: 10px;
+  background-color: hsl(300, 43%, 22%);
+  padding: 20px;
+  width: 60%;
+}
+
+.seconde-person {
+  position: absolute;
+  top: 1200px;
+  left: 100px;
+  border-radius: 10px;
+  background-color: hsl(300, 43%, 22%);
+  padding: 20px;
+  width: 60%;
+}
+
+.third-person {
+  position: relative;
+  top: 1000px;
+left: 90px;
+  border-radius: 10px;
+  background-color: hsl(300, 43%, 22%);
+  padding: 20px;
+  width: 60%;
+}
+
+.coltonimg {
+  float: left;
+  margin-top: 45px;
+  margin-right: 30px;
+  margin-left: 10px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.ireneimg {
+  float: left;
+  margin-top: 45px;
+  margin-right: 30px;
+  margin-left: 10px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.annieimg {
+  float: left;
+  margin-top: 45px;
+  margin-right: 30px;
+  margin-left: 10px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.firstp {
+
+  font-size: 12px;
+  line-height: 1.5;
+  width: 105%;
+  color: hsl(300, 24%, 96%);
+}
+
+.secondep {
+  margin-left: 20px;
+  font-size: 12px;
+  line-height: 1.5;
+  width: 93%;
+  color: hsl(300, 24%, 96%);
+}
+
+.finalp {
+  margin-left: 20px;
+  font-size: 12px;
+  line-height: 1.5;
+  width: 93%;
+  color: hsl(300, 24%, 96%);
+}
+
+.attribution {
+  position: absolute;
+top:  1800px;
+
+}
